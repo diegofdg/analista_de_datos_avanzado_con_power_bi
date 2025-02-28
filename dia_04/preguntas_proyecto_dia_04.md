@@ -40,7 +40,7 @@ Como ya estás acostumbrado, a continuación tendrás dos cuestionarios: el prim
 	d) TXT  
 	e) PNG  
 
-# Pasos para la solución del proyecto del día 2
+# Pasos para la solución del proyecto del día 4
 1) Carga las tablas a tu proyecto de Power BI, y analiza la información que dispones.
 2) Elije la herramienta que más te resulta cómoda, y crea un esquema de cómo debería estar organizado tu informe.
 3) Siguiendo el esquema que has dibujado, desarrolla tu informe dividido en dos perspectivas, y agrega todas las visualizaciones y demás elementos que necesites. Por ahora no le brindes mucha atención al diseño gráfico, sino a la estructura y precisión de tus gráficos.
