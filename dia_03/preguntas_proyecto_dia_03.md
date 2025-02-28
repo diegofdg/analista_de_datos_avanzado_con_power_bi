@@ -13,7 +13,7 @@
 7) ¿Cuál ha sido el promedio de ventas (en unidades) para la Región Sur en el tercer trimestre a lo largo de todo el periodo analizado?
 8) ¿Cuál fue el mayor mes de ventas, para el tercer producto más vendido?
 
-# Pasos para la solución del proyecto del día 2
+# Pasos para la solución del proyecto del día 3
 1) Descarga las tablas de Excel y analiza los datos. Realiza limpieza o tratamiento de datos si es necesario.
 2) Una vez que lo hayas hecho, selecciona "¡Listo!" y haz clic en "Comprobar Respuesta".
 3) Revisa las preguntas (que se encuentran un archivo adjunto que podrás descargar de la lección "Proyecto del Día 3") para identificar las visualizaciones que necesitarás.  
