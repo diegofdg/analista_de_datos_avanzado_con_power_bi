@@ -4,3 +4,4 @@
 ## Día 03: Crea informes interactivos
 ## Día 04: Diseña tu dashboard con Power BI
 ## Día 05: Crea visualizaciones avanzadas con Power BI
+## Día 06: Crea visualizaciones impactantes con Power BI
